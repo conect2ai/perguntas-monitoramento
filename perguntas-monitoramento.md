@@ -54,6 +54,6 @@ Consultas focadas em alertas e desvios de padrão (troubleshooting).
 ## 5. Interações de Contexto
 Perguntas para testar a retenção de memória de agentes conversacionais.
 
-* *E em testes?* (Após uma pergunta anterior sobre o site)
-* *E no site?* (Após uma pergunta anterior sobre testes)
-* *Qual ambiente você está analisando agora?* (Após sequência com contexto)
+* E em testes? (Após uma pergunta anterior sobre o site)
+* E no site? (Após uma pergunta anterior sobre testes)
+* Qual ambiente você está analisando agora? (Após sequência com contexto)
