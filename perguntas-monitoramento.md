@@ -1,6 +1,6 @@
 # 📊 Perguntas de Monitoramento e Observabilidade
 
-Este documento lista as perguntas de referência utilizadas **pelo agente** para consultar a saúde, o consumo de recursos e o estado geral da infraestrutura (Máquinas Virtuais e Containers) nos ambientes de **Site** e **Testes**.
+Este documento lista as perguntas de referência utilizadas para o **agente** consultar a saúde, o consumo de recursos e o estado geral da infraestrutura (Máquinas Virtuais e Containers) nos ambientes de **Site** e **Testes**.
 
 ## 🏥 1. Saúde Geral da Infraestrutura
 Perguntas focadas no status de funcionamento das VMs e seus respectivos containers.
