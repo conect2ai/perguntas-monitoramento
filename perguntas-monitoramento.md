@@ -32,7 +32,8 @@ Perguntas para identificar gargalos, inatividade ou o status de serviços espec�
 **Métricas de Consumo**
 * Quais containers mais usam CPU no site?
 * Quais containers mais usam CPU em testes?
-* Quais containers mais usam memória? (Geral)
+* Quais containers mais usam memória? 
+  * *(Nota: Pergunta intencionalmente formulada sem o ambiente alvo [site/testes] para testar se o agente infere o contexto com base na pergunta anterior).*
 * Quais containers mais usam memória em testes?
 
 **Status e Serviços Específicos**
