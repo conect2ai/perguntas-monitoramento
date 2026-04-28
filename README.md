@@ -54,7 +54,8 @@ O fluxo geral é:
 │   ├── config.py
 │   └── utils.py
 ├── figures/
-│   └── grafico-overhead.pdf
+│   ├── conecta_logo.png
+│   └── grafico-overhead.png
 ├── services/
 │   ├── metrics.py
 │   └── prometheus.py
@@ -81,8 +82,6 @@ O fluxo geral é:
   resultados.
 - `services/metrics.py`: consultas PromQL e consolidação das métricas de VM e
   contêineres.
-- `figures/grafico-overhead.pdf`: figura com o consumo de CPU e memória durante
-  a execução local do agente.
 - `requirements.txt`: dependências Python do projeto.
 
 ## Abordagem
