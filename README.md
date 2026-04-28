@@ -7,7 +7,7 @@
 
 # Monitoramento de Infraestruturas Computacionais via Agente Conversacional: Uma Abordagem Experimental
 
-### Autores: Erick Justino, Marianne Silva, Carlos M. D. Viegas, Dennis Brandão e Ivanovitch Silva
+### Autores: [Erick Justino](https://github.com/erickjustino), [Marianne Silva](https://github.com/MarianneDiniz), [Carlos M. D. Viegas](https://github.com/cmdviegas), [Dennis Brandão](https://scholar.google.com.br/citations?user=OxSKwvEAAAAJ&hl=pt-BR&authuser=1&oi=ao) e [Ivanovitch Silva](https://github.com/ivanovitchm)
 
 Este repositório reúne a implementação de um agente conversacional para apoiar o
 monitoramento de infraestruturas computacionais a partir de perguntas em
@@ -197,6 +197,10 @@ telemetria ao usuário final.
 
 ### Overhead Computacional
 
+<p align="center">
+  <img width="800" src="./figures/grafico-overhead.png" alt="Grafico">
+</p>
+
 A execução local do modelo também foi avaliada em termos de consumo de recursos
 da máquina hospedeira. Durante duas interações sequenciais, o uso de CPU
 apresentou picos controlados em torno de 20% durante a etapa de inferência,
@@ -206,9 +210,6 @@ Esse comportamento indica que o processamento se concentra nos momentos de
 interpretação da intenção, acionamento das ferramentas e síntese da resposta,
 sem indícios de degradação ou vazamento de memória durante a manutenção do
 contexto conversacional.
-
-A figura do experimento está disponível em
-[`figures/grafico-overhead.pdf`](figures/grafico-overhead.pdf).
 
 ## Como Rodar
 
