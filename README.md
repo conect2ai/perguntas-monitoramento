@@ -120,7 +120,7 @@ infraestrutura para provedores externos.
 
 ## Ambiente Experimental
 
-No artigo, os experimentos foram conduzidos com o modelo `Qwen3:14b`, executado
+Os experimentos foram conduzidos com o modelo `Qwen3:14b`, executado
 localmente via Ollama, em uma estação de trabalho com processador Intel Core i7,
 64 GB de RAM e GPU NVIDIA GeForce RTX 4070.
 
