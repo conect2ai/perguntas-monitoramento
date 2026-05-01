@@ -5,7 +5,7 @@
   <img width="800" src="./figures/conecta_logo.png" alt="Conect2AI">
 </p>
 
-# Monitoramento de Infraestruturas Computacionais via Agente Conversacional: Uma Abordagem Experimental
+# Agentes Conversacionais Orientados por Ferramentas para Observabilidade de Infraestruturas com Prometheus
 
 ### Autores: [Erick Justino](https://github.com/erickjustino), [Marianne Silva](https://github.com/MarianneDiniz), [Carlos M. D. Viegas](https://github.com/cmdviegas), [Dennis Brandão](https://scholar.google.com.br/citations?user=OxSKwvEAAAAJ&hl=pt-BR&authuser=1&oi=ao) e [Ivanovitch Silva](https://github.com/ivanovitchm)
 
